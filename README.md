@@ -1,3 +1,2 @@
-# Wild-project
- Comment installer ce project ?
-
+# wild-project
+Comment installer ce projet ?
